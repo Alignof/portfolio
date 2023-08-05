@@ -1,3 +1,4 @@
-# Alignof.github.io
-僕のポートフォリオです。  
-link:[https://alignof.github.io/](https://alignof.github.io/)
+# Alignof.github.io/portfolio
+ポートフォリオ．
+更新頻度は皆無．
+link:[https://alignof.github.io/portfolio](https://alignof.github.io/portfolio)
